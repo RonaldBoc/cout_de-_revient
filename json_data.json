@@ -1,0 +1,21 @@
+{
+    "produits": [
+        {
+            "name": "Hello",
+            "prix": 78.0,
+            "prix_convertit": 78.0,
+            "quantite": 3,
+            "prix_achat_pur_produit": 234.0,
+            "cout_revient": 116.0
+        }
+    ],
+    "infos": {
+        "cout_total": 348.0,
+        "achat_pur_total": 234.0,
+        "quantite_produits": 1,
+        "transport": 45.0,
+        "octroi": 69.0,
+        "cout_transport": 114.0,
+        "taux_conversion": 1
+    }
+}
